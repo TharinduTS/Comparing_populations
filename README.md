@@ -1,5 +1,7 @@
 # Comparing_populations
 
+# ** This is not efficient enough. Please follow instructions on "https://github.com/TharinduTS/pop_comp_grenedalf/blob/main/README.md" after converting vcf to tab **
+
 I started with VCF files and converted into tab delimited files with following commands on computecanada
 ```bash
 # Prepare input file
